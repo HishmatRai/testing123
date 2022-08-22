@@ -1,0 +1,11 @@
+.form-container {
+  border: 1px solid red;
+  border-radius: 5px;
+  padding: 20px;
+}
+.error {
+  color: red;
+}
+.sucess {
+  color: green;
+}

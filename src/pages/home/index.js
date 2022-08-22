@@ -77,6 +77,7 @@ const Home = () => {
         <Button title="Login in with Google" onClick={SignInWithGoogle} />
         
       </div>
+      <h1>About Page</h1>
     </div>
   );
 };
